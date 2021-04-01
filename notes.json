@@ -1,0 +1,26 @@
+[
+    {
+        "name": "rawan",
+        "subject": "math",
+        "grade": "A",
+        "comment": "pass"
+    },
+    {
+        "name": "mostafa",
+        "subject": "math",
+        "grade": 90,
+        "comment": "pass"
+    },
+    {
+        "name": "marwa",
+        "subject": "bio",
+        "grade": 100,
+        "comment": "pass"
+    },
+    {
+        "name": "ali",
+        "subject": "bio",
+        "grade": 20,
+        "comment": "fails"
+    }
+]
